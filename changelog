@@ -1,4 +1,3 @@
-lang::en
 Feature: Added in-app purchase
 Feature: Added apply voucher
 Feature: Added user libraries to dashboard
@@ -9,7 +8,7 @@ Feature: Changed Authentication UI/UX
 Feature: Added OTP authentication method
 Feature: Added custom offers banner
 Feature: Added optinal naviagtion for hero sliders
-line::separate
+
 Fixed: User being logged out because of network failure
 Fixed: Download manager autostart bug
 Fixed: Last episode in player bug
@@ -18,36 +17,10 @@ Fixed: Download manager causes crash for red users
 Fixed: Hero sections initial timer bug
 Fixed: Download manager lag
 Fixed: Recaptcha bugs
-line::separate
+
 Improved: Title frame images
 Improved: Archives performance
 Improved: Download manager performance
-line::separate
+
 Major dependency updates and migrations
-Overall quality-of-life improvements
-lang::fa
-ویژگی: افزودن خرید درون برنامه‌ای
-ویژگی: افزودن کوپن تخفیف و کد ووچر
-ویژگی: افزودن لیست کاربران به داشبورد
-ویژگی: افزودن دسته بندی‌ها به داشبورد برای مرور بهتر
-ویژگی: افزودن لیست کاربران
-ویژگی: پیاده سازی افزودن به لیست‌ها
-ویژگی: تغییر UI/UX احراز هویت
-ویژگی: افزودن روش تایید هویت با OTP
-ویژگی: افزودن بنرهای offer ها
-ویژگی: افزودن ناوبری اختیاری برای اسلایدرهای Hero
-line::separate
-رفع شد: کاربر به خاطر خطای شبکه خارج می‌شد
-رفع شد: خطای راه اندازی خودکار مدیر دانلود
-رفع شد: خطای قسمت آخر در پخش کننده
-رفع شد: خطای علامت زدن همه اعلان‌ها به عنوان خوانده شده
-رفع شد: دانلود منیجر باعث خرابی برای کاربران قرمز می‌شد
-رفع شد: خطای تایمر اولیه Hero section
-رفع شد: لگ داخل دانلود منیجر
-رفع شد: خطاهای Recaptcha
-line::separate
-بهبود: تصاویر قاب عناوین
-بهبود: عملکرد آرشیو
-بهبود: عملکرد مدیر دانلود
-line::separate
-بروزرسانی‌ کتابخانه های اصلی
+Overall quality-of-life improvement

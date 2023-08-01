@@ -8,6 +8,7 @@ Feature: Implemented add to lists
 Feature: Changed Authentication UI/UX
 Feature: Added OTP authentication method
 Feature: Added custom offers banner
+Feature: Added optinal naviagtion for hero sliders
 line::separate
 Fixed: User being logged out because of network failure
 Fixed: Download manager autostart bug
@@ -34,6 +35,7 @@ lang::fa
 ویژگی: تغییر UI/UX احراز هویت
 ویژگی: افزودن روش تایید هویت با OTP
 ویژگی: افزودن بنرهای offer ها
+ویژگی: افزودن ناوبری اختیاری برای اسلایدرهای Hero
 line::separate
 رفع شد: کاربر به خاطر خطای شبکه خارج می‌شد
 رفع شد: خطای راه اندازی خودکار مدیر دانلود

@@ -1,6 +1,4 @@
-- New video player!
-- Fixed: Hero slider buttons
-- Fixed: Blurhash sizes
-- Fixed: User lists order
-- Improved: Titleframe add-to-list design
-- Added: user list options in single-page
+- Fixed: Subtitles inside elements
+- Fixed: Video player minor bug fixes
+- Improved: Subtitle fonts and sizes
+- Updated: Packages and Dependencies

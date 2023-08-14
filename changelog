@@ -1,4 +1,3 @@
-- Fixed: Subtitles inside elements
-- Fixed: Video player minor bug fixes
-- Improved: Subtitle fonts and sizes
+- Fixed: Router back functionality with queries
+- Fixed: Download all links with download manager is getting desynced
 - Updated: Packages and Dependencies

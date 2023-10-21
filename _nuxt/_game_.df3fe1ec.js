@@ -1,0 +1,1 @@
+import{I as a,g as s,h as r,q as o,W as l}from"./entry.50cf52f7.js";const c={},t={"aria-label":"games",class:"w-full h-full"},n=["src"];function f(e,m){return s(),r("section",t,[o("iframe",{ref:"iframe",src:`/30nama-games/${(e._.provides[l]||e.$route).params.game}`,class:"w-full h-full rounded-2xl",frameborder:"0"},null,8,n)])}const u=a(c,[["render",f]]);export{u as default};
